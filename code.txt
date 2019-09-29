@@ -3,3 +3,4 @@
 -Change in Weather-Prayer
 -change 4
 -change 5 for master
+-change 5 in CommandClasses
